@@ -1,0 +1,6 @@
+Intregrante:
+Julio Vargas
+Anthony Duran
+
+Repositorio: https://github.com/julio190222/Riky-y-morty.git
+Despligue: https://julio190222.github.io/Riky-y-morty/

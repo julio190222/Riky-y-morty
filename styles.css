@@ -65,6 +65,20 @@ footer {
     }
 }
 
+.developers-info {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-bottom: 15px;
+}
+
+.developer {
+    min-width: 200px;
+}
+
+
+
 /* Una card por fila en móviles */
 @media (max-width: 600px) {
     .grid-container {
@@ -79,5 +93,10 @@ footer {
     .card {
         padding: 12px;
         margin-bottom: 10px;
+    }
+
+    .developers-info {
+        flex-direction: column;
+        gap: 10px;
     }
 }
